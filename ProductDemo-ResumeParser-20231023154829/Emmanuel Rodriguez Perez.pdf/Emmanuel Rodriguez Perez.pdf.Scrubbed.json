@@ -1,0 +1,60 @@
+{
+  "ContactInformation": {
+    "Location": {
+      "CountryCode": "ES",
+      "Regions": [
+        "ES-VC"
+      ],
+      "Municipality": "La Gloria"
+    }
+  },
+  "Objective": "Objetivo\n  Integrarme a la actividad productiva de una empresa que me permita desarrollarme\nprofesionalmente a beneficio de la misma, de acuerdo a mis conocimientos y habilidades.",
+  "Education": {
+    "EducationDetails": [
+      {
+        "Id": "DEG-1",
+        "Text": "",
+        "SchoolName": {
+          "Raw": "Instituto Politecnico Max Henriquez Ureña",
+          "Normalized": "Instituto Politecnico Max Henriquez Ureña"
+        },
+        "SchoolType": "college",
+        "Degree": {
+          "Name": {
+            "Raw": "Bachillerato",
+            "Normalized": "Bachillerato"
+          }
+        }
+      }
+    ]
+  },
+  "EmploymentHistory": {
+    "ExperienceSummary": {
+      "Description": "Emmanuel Rodríguez Pérez parece tener una experiencia básica, con solamente 0 meses de experiencia.",
+      "MonthsOfWorkExperience": 0,
+      "MonthsOfManagementExperience": 0,
+      "ExecutiveType": "NONE",
+      "AverageMonthsPerEmployer": 0,
+      "FulltimeDirectHirePredictiveIndex": -1,
+      "ManagementStory": "",
+      "CurrentManagementLevel": "",
+      "ManagementScore": 0
+    }
+  },
+  "Skills": {},
+  "LanguageCompetencies": [
+    {
+      "Language": "Spanish",
+      "LanguageCode": "es",
+      "FoundInContext": ""
+    }
+  ],
+  "ResumeMetadata": {
+    "FoundSections": [],
+    "PlainText": "Emmanuel Rodríguez Pérez\n\n\n      C/Rodríguez No. 03 B/La Gloria, Municipio Los Alcarrizos Sto. Dgo Oeste, R. D.\n                                    Cel. : (829) 221-5659\n\n                                        Objetivo\n  Integrarme a la actividad productiva de una empresa que me permita desarrollarme\nprofesionalmente a beneficio de la misma, de acuerdo a mis conocimientos y habilidades.\n\n\n                                Datos Personales\n\n       Cedula                                      :  402-2820576-7\n\n       Lugar de Nacimiento                         :  Santo Domingo, R.D.\n       Fecha de Nacimiento                         :  29 de Enero del 1997\n\n       Estado Civil                                :  Casado\n\n       Nacionalidad                                :  Dominicana\n\n                          Preparación Académica\n\n       Bachillerato                            : Instituto Politecnico Max Henriquez Ureña\n\n\n                          Experiencias Laborales:\n\n       Operador (Producción)                      : Plastifar\n       Operador                                    : Jijaro\n\n                          Referencias Personales:\n\n       Sra. Wendy Arias                            :  Cel. :(809) 601-1498\n\n       Sra. Esmeralda Pérez                        :  Cel. :(829) 780-9314\n       Sr. Cesar Ramírez                            : Cel. :(829)-603-0360",
+    "DocumentLanguage": "es",
+    "DocumentCulture": "es-US",
+    "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = Spanish; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.NormalizeSkills = True; Data.UserDefinedParsing = False; Data.UseV2SkillsTaxonomy = True; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+    "DocumentLastModified": "2022-09-16"
+  }
+}

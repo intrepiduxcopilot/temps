@@ -1,0 +1,308 @@
+{
+  "ContactInformation": {
+    "CandidateName": {
+      "FormattedName": "Llovizna García De La Cruz",
+      "GivenName": "Llovizna",
+      "FamilyName": "García De La Cruz"
+    },
+    "Location": {
+      "CountryCode": "CA",
+      "Regions": [
+        "CA-YT"
+      ],
+      "Municipality": "Faro",
+      "StreetAddressLines": [
+        "69 Santa Cruz Villa Mlla Santo Domingo Norte"
+      ]
+    }
+  },
+  "Objective": "* Objetivos\n\n\n\n\nAdquirir nuevas experiencias, en una empresa que me brinde la oportunidad de desarrollarme de manera\nprofesional, haciendo aportes a mis conocimientos y contribuyendo a la excelencia en el servicio.",
+  "PersonalAttributes": {
+    "DateOfBirth": {
+      "Date": "1998-09-04",
+      "IsCurrentDate": false,
+      "FoundYear": true,
+      "FoundMonth": true,
+      "FoundDay": true
+    },
+    "Nationality": "DO"
+  },
+  "Education": {
+    "EducationDetails": [
+      {
+        "Id": "DEG-1",
+        "Text": "",
+        "SchoolName": {
+          "Raw": "Republica de Argentina",
+          "Normalized": "Republica de Argentina"
+        },
+        "SchoolType": "UNSPECIFIED",
+        "Degree": {
+          "Name": {
+            "Raw": "Bachiller",
+            "Normalized": "Bachiller"
+          }
+        }
+      }
+    ]
+  },
+  "EmploymentHistory": {
+    "ExperienceSummary": {
+      "Description": "Las habilidades de Llovizna García De La Cruz coinciden con las de Programmers (Information and Communication Technology). Llovizna también tiene habilidades asociadas con Customer Service Personnel (Administration and Customer Service). Llovizna García De La Cruz parece tener una experiencia básica, con solamente 0 meses de experiencia.",
+      "MonthsOfWorkExperience": 0,
+      "MonthsOfManagementExperience": 0,
+      "ExecutiveType": "NONE",
+      "AverageMonthsPerEmployer": 0,
+      "FulltimeDirectHirePredictiveIndex": -1,
+      "ManagementStory": "",
+      "CurrentManagementLevel": "",
+      "ManagementScore": 0
+    },
+    "Positions": [
+      {
+        "Id": "POS-1",
+        "Employer": {
+          "Name": {
+            "Probability": "Confident",
+            "Raw": "Tienda La mostra * Industria Pretroquim",
+            "Normalized": "Tienda La mostra Industria Pretroquim"
+          }
+        },
+        "IsSelfEmployed": false,
+        "IsCurrent": false,
+        "JobTitle": {
+          "Raw": "Servicio al cliente",
+          "Normalized": "Servicio al cliente",
+          "Probability": "Confident"
+        },
+        "JobType": "UNSPECIFIED",
+        "JobLevel": "Entry Level",
+        "TaxonomyPercentage": 0,
+        "NormalizedProfession": {
+          "Profession": {
+            "CodeId": 1260,
+            "Description": "Técnico de atención al cliente (h/m)"
+          },
+          "Group": {
+            "CodeId": 4,
+            "Description": "Personal de atención al cliente"
+          },
+          "Class": {
+            "CodeId": 1,
+            "Description": "Administración y atención al cliente"
+          },
+          "ISCO": {
+            "Version": "ISCO-08",
+            "CodeId": 4225,
+            "Description": "Enquiry clerks"
+          },
+          "ONET": {
+            "Version": "2010",
+            "CodeId": "43-4051.00",
+            "Description": "Customer Service Representatives"
+          },
+          "Confidence": 1.0
+        }
+      }
+    ]
+  },
+  "Skills": {
+    "Raw": [
+      {
+        "Name": "excelencia en el servicio",
+        "FoundIn": [
+          {
+            "SectionType": "ENTIRE_DOCUMENT"
+          }
+        ]
+      },
+      {
+        "Name": "Informática",
+        "FoundIn": [
+          {
+            "SectionType": "ENTIRE_DOCUMENT"
+          }
+        ]
+      },
+      {
+        "Name": "Servicio al cliente",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-1"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 1
+        }
+      }
+    ],
+    "Normalized": [
+      {
+        "Name": "Tecnologías de la Información",
+        "Id": "KSJLPQMW0YRWJSWO4NFL",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "ENTIRE_DOCUMENT"
+          }
+        ],
+        "RawSkills": [
+          "Informática"
+        ]
+      },
+      {
+        "Name": "Excelencia en el Servicio",
+        "Id": "KSVF7HDK90KNXAGOGSJ4",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "ENTIRE_DOCUMENT"
+          }
+        ],
+        "RawSkills": [
+          "excelencia en el servicio"
+        ]
+      },
+      {
+        "Name": "Servicio al Cliente",
+        "Id": "KS121Z26S4VJLQ1WXN21",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-1"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 1
+        },
+        "RawSkills": [
+          "Servicio al cliente"
+        ]
+      }
+    ],
+    "RelatedProfessionClasses": [
+      {
+        "Name": "Information and Communication Technology",
+        "Id": "9",
+        "Percent": 36,
+        "Groups": [
+          {
+            "Name": "Programmers",
+            "Id": "82",
+            "Percent": 36,
+            "NormalizedSkills": [
+              "KSJLPQMW0YRWJSWO4NFL"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Administration and Customer Service",
+        "Id": "1",
+        "Percent": 36,
+        "Groups": [
+          {
+            "Name": "Customer Service Personnel",
+            "Id": "4",
+            "Percent": 36,
+            "NormalizedSkills": [
+              "KS121Z26S4VJLQ1WXN21"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Healthcare",
+        "Id": "6",
+        "Percent": 26,
+        "Groups": [
+          {
+            "Name": "Care Managers",
+            "Id": "280",
+            "Percent": 5,
+            "NormalizedSkills": [
+              "KSVF7HDK90KNXAGOGSJ4"
+            ]
+          },
+          {
+            "Name": "Nursing",
+            "Id": "58",
+            "Percent": 5,
+            "NormalizedSkills": [
+              "KSVF7HDK90KNXAGOGSJ4"
+            ]
+          },
+          {
+            "Name": "Laboratory Technicians",
+            "Id": "52",
+            "Percent": 5,
+            "NormalizedSkills": [
+              "KSVF7HDK90KNXAGOGSJ4"
+            ]
+          },
+          {
+            "Name": "Head Nurses and Coordinators",
+            "Id": "49",
+            "Percent": 5,
+            "NormalizedSkills": [
+              "KSVF7HDK90KNXAGOGSJ4"
+            ]
+          },
+          {
+            "Name": "Specialized Nurses",
+            "Id": "48",
+            "Percent": 5,
+            "NormalizedSkills": [
+              "KSVF7HDK90KNXAGOGSJ4"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Sales and Trading",
+        "Id": "21",
+        "Percent": 1,
+        "Groups": [
+          {
+            "Name": "Sellers",
+            "Id": "217",
+            "Percent": 1,
+            "NormalizedSkills": [
+              "KSVF7HDK90KNXAGOGSJ4"
+            ]
+          },
+          {
+            "Name": "Sales Managers",
+            "Id": "209",
+            "Percent": 1,
+            "NormalizedSkills": [
+              "KSVF7HDK90KNXAGOGSJ4"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "LanguageCompetencies": [
+    {
+      "Language": "Spanish",
+      "LanguageCode": "es",
+      "FoundInContext": ""
+    }
+  ],
+  "ResumeMetadata": {
+    "FoundSections": [],
+    "ReservedData": {
+      "Names": [
+        "Llovizna"
+      ]
+    },
+    "PlainText": "Llovizna García De La Cruz\nLos trinitario II, Calle el faro #69 Santa Cruz Villa Mlla\nSanto Domingo Norte. R. D.\nCel.:829-678-5757\n* Objetivos\n\n\n\n\nAdquirir nuevas experiencias, en una empresa que me brinde la oportunidad de desarrollarme de manera\nprofesional, haciendo aportes a mis conocimientos y contribuyendo a la excelencia en el servicio.\n\n*Datos Personales\n\n\n\n\n *      Lugar de Nacimiento                  :      Santo Domingo este, R.D.\n *      Fecha de nacimiento                  :      04 de Septiembre del 1998\n *      Nacionalidad                        :      Dominicana\n *      Estado Civil                        :      Soltera\n *      Cédula                              :      402-0910748-7\n\n\n*Formación Académica\n\n\n\n *      Bachiller                              :      Republica de Argentina\n\n\n\n*Estudios Técnicos\n\n\n\n *      Informática                        :      Don Bosco\n\n*Experiencia laboral\n\n\n *      Servicio al cliente                  :      Tienda La mostra\n *      Industria Pretroquim                  :      Operaria\n\n\n\n*Referencias Personales\n\n\n\n\n *      Manuel Marque                        :      Cel.: 829-447-6456\n *      Arodys Aquino                        :      Cel.: 829-393-8632\n *      Daniel De Lo Santo                  :      Cel.: 829-761-1951",
+    "DocumentLanguage": "es",
+    "DocumentCulture": "es-US",
+    "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = Spanish; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.NormalizeSkills = True; Data.UserDefinedParsing = False; Data.UseV2SkillsTaxonomy = True; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+    "DocumentLastModified": "2022-06-28"
+  }
+}

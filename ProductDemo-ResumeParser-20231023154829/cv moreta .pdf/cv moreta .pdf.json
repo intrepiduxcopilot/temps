@@ -1,0 +1,431 @@
+{
+  "ContactInformation": {
+    "CandidateName": {
+      "FormattedName": "Jorge Moreta Castillo",
+      "GivenName": "Jorge",
+      "FamilyName": "Moreta Castillo"
+    },
+    "Telephones": [
+      {
+        "Raw": "+568099061294",
+        "Normalized": "+56 8099061294",
+        "InternationalCountryCode": "56",
+        "SubscriberNumber": "8099061294"
+      }
+    ],
+    "Location": {
+      "CountryCode": "CL",
+      "Municipality": "Santo Domingo",
+      "StreetAddressLines": [
+        "Cristo Rey"
+      ]
+    }
+  },
+  "Objective": "OBJETIVO\n\nLaborar con los diferentes tipos de personas en equipo para conjuntamente llegar a metas\ntrazadas; laborar en una empresa privada o institución pública la cual me permita dar lo\nmáximo de mis capacidades en el desempeño de las funciones asignadas, compartir ideas y\ntrabajar para que los propios planes sean realizados en eficiencia y al mismo tiempo que\npueda ir escalando.",
+  "PersonalAttributes": {
+    "DateOfBirth": {
+      "Date": "1979-07-30",
+      "IsCurrentDate": false,
+      "FoundYear": true,
+      "FoundMonth": true,
+      "FoundDay": true
+    },
+    "Nationality": "UA"
+  },
+  "Education": {
+    "EducationDetails": [
+      {
+        "Id": "DEG-1",
+        "Text": "",
+        "SchoolType": "UNSPECIFIED",
+        "Degree": {
+          "Name": {
+            "Raw": "Licdo. En Publicidad, mención diseño gráfico; UASD",
+            "Normalized": "Licdo En Publicidad mención diseño gráfico UASD"
+          }
+        }
+      }
+    ]
+  },
+  "EmploymentHistory": {
+    "ExperienceSummary": {
+      "Description": "Las habilidades de Jorge Moreta Castillo coinciden con las de Programmers (Information and Communication Technology). Jorge también tiene habilidades asociadas con Insurance & Finance Managers (Insurance and Finance). Jorge Moreta Castillo parece tener una experiencia básica, con solamente 0 meses de experiencia.",
+      "MonthsOfWorkExperience": 0,
+      "MonthsOfManagementExperience": 0,
+      "ExecutiveType": "NONE",
+      "AverageMonthsPerEmployer": 0,
+      "FulltimeDirectHirePredictiveIndex": -1,
+      "ManagementStory": "",
+      "CurrentManagementLevel": "",
+      "ManagementScore": 0
+    }
+  },
+  "Skills": {
+    "Raw": [
+      {
+        "Name": "Artes Gráficas",
+        "FoundIn": [
+          {
+            "SectionType": "EDUCATION",
+            "Id": "DEG-1"
+          }
+        ]
+      },
+      {
+        "Name": "Contabilidad",
+        "FoundIn": [
+          {
+            "SectionType": "EDUCATION",
+            "Id": "DEG-2"
+          }
+        ]
+      },
+      {
+        "Name": "diseño gráfico",
+        "FoundIn": [
+          {
+            "SectionType": "EDUCATION",
+            "Id": "DEG-1"
+          }
+        ]
+      },
+      {
+        "Name": "empresa privada",
+        "FoundIn": [
+          {
+            "SectionType": "ENTIRE_DOCUMENT"
+          }
+        ]
+      },
+      {
+        "Name": "Informática",
+        "FoundIn": [
+          {
+            "SectionType": "ENTIRE_DOCUMENT"
+          }
+        ]
+      },
+      {
+        "Name": "máximo",
+        "FoundIn": [
+          {
+            "SectionType": "ENTIRE_DOCUMENT"
+          }
+        ]
+      }
+    ],
+    "Normalized": [
+      {
+        "Name": "IBM Maximo",
+        "Id": "KS124YD7298LNBBZDHPL",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "ENTIRE_DOCUMENT"
+          }
+        ],
+        "RawSkills": [
+          "máximo"
+        ]
+      },
+      {
+        "Name": "Tecnologías de la Información",
+        "Id": "KSJLPQMW0YRWJSWO4NFL",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "ENTIRE_DOCUMENT"
+          }
+        ],
+        "RawSkills": [
+          "Informática"
+        ]
+      },
+      {
+        "Name": "Artes Gráficas",
+        "Id": "KS124H05ZC4NYVG8MCHJ",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "EDUCATION",
+            "Id": "DEG-1"
+          }
+        ],
+        "RawSkills": [
+          "Artes Gráficas"
+        ]
+      },
+      {
+        "Name": "Capital Riesgo",
+        "Id": "KS121CX6YBTQW93HCZQM",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "ENTIRE_DOCUMENT"
+          }
+        ],
+        "RawSkills": [
+          "empresa privada"
+        ]
+      },
+      {
+        "Name": "Diseño Gráfico",
+        "Id": "KS124H46Q2PP8YC1WQ06",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "EDUCATION",
+            "Id": "DEG-1"
+          }
+        ],
+        "RawSkills": [
+          "diseño gráfico"
+        ]
+      },
+      {
+        "Name": "Registros Contables",
+        "Id": "KS1203W702ND09XHKJR5",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "EDUCATION",
+            "Id": "DEG-2"
+          }
+        ],
+        "RawSkills": [
+          "Contabilidad"
+        ]
+      }
+    ],
+    "RelatedProfessionClasses": [
+      {
+        "Name": "Information and Communication Technology",
+        "Id": "9",
+        "Percent": 27,
+        "Groups": [
+          {
+            "Name": "Programmers",
+            "Id": "82",
+            "Percent": 25,
+            "NormalizedSkills": [
+              "KSJLPQMW0YRWJSWO4NFL"
+            ]
+          },
+          {
+            "Name": "Web Professionals",
+            "Id": "77",
+            "Percent": 2,
+            "NormalizedSkills": [
+              "KS124H46Q2PP8YC1WQ06"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Insurance and Finance",
+        "Id": "24",
+        "Percent": 25,
+        "Groups": [
+          {
+            "Name": "Insurance & Finance Managers",
+            "Id": "220",
+            "Percent": 12,
+            "NormalizedSkills": [
+              "KS1203W702ND09XHKJR5"
+            ]
+          },
+          {
+            "Name": "Accountants",
+            "Id": "218",
+            "Percent": 12,
+            "NormalizedSkills": [
+              "KS1203W702ND09XHKJR5"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Communication, Marketing and Public Relations",
+        "Id": "23",
+        "Percent": 15,
+        "Groups": [
+          {
+            "Name": "Communication, Marketing and Public Relations Managers",
+            "Id": "208",
+            "Percent": 8,
+            "NormalizedSkills": [
+              "KS124H05ZC4NYVG8MCHJ"
+            ]
+          },
+          {
+            "Name": "Sales Promotion Personnel",
+            "Id": "212",
+            "Percent": 6,
+            "NormalizedSkills": [
+              "KS121CX6YBTQW93HCZQM"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Management, Policy and Governance",
+        "Id": "2",
+        "Percent": 13,
+        "Groups": [
+          {
+            "Name": "Governance and Industry Policy Managers",
+            "Id": "275",
+            "Percent": 12,
+            "NormalizedSkills": [
+              "KS121CX6YBTQW93HCZQM"
+            ]
+          },
+          {
+            "Name": "Management Analysts and Consultants",
+            "Id": "225",
+            "Percent": 1,
+            "NormalizedSkills": [
+              "KS124YD7298LNBBZDHPL"
+            ]
+          },
+          {
+            "Name": "Management, Policy and Governance (other)",
+            "Id": "284",
+            "Percent": 1,
+            "NormalizedSkills": [
+              "KS124YD7298LNBBZDHPL"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Production",
+        "Id": "18",
+        "Percent": 10,
+        "Groups": [
+          {
+            "Name": "Printing Preparation and Layout Personnel",
+            "Id": "232",
+            "Percent": 6,
+            "NormalizedSkills": [
+              "KS124H46Q2PP8YC1WQ06"
+            ]
+          },
+          {
+            "Name": "Printers",
+            "Id": "169",
+            "Percent": 3,
+            "NormalizedSkills": [
+              "KS124H05ZC4NYVG8MCHJ"
+            ]
+          },
+          {
+            "Name": "Production Managers",
+            "Id": "170",
+            "Percent": 1,
+            "NormalizedSkills": [
+              "KS124YD7298LNBBZDHPL"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Arts, Culture and Media",
+        "Id": "10",
+        "Percent": 6,
+        "Groups": [
+          {
+            "Name": "Illustrators and Designers (2D)",
+            "Id": "98",
+            "Percent": 4,
+            "NormalizedSkills": [
+              "KS124H46Q2PP8YC1WQ06",
+              "KS124H05ZC4NYVG8MCHJ"
+            ]
+          },
+          {
+            "Name": "Illustrators and Designers (3D)",
+            "Id": "89",
+            "Percent": 2,
+            "NormalizedSkills": [
+              "KS124H46Q2PP8YC1WQ06"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Engineering",
+        "Id": "5",
+        "Percent": 4,
+        "Groups": [
+          {
+            "Name": "Engineering (other)",
+            "Id": "287",
+            "Percent": 4,
+            "NormalizedSkills": [
+              "KS124YD7298LNBBZDHPL"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Installation, Repair and Maintenance",
+        "Id": "8",
+        "Percent": 1,
+        "Groups": [
+          {
+            "Name": "Industrial Machinery Mechanics",
+            "Id": "69",
+            "Percent": 1,
+            "NormalizedSkills": [
+              "KS124YD7298LNBBZDHPL"
+            ]
+          },
+          {
+            "Name": "Installation, Repair, and Maintenance Heads/managers",
+            "Id": "68",
+            "Percent": 1,
+            "NormalizedSkills": [
+              "KS124YD7298LNBBZDHPL"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Sales and Trading",
+        "Id": "21",
+        "Percent": 1,
+        "Groups": [
+          {
+            "Name": "Commercial Personnel and Telemarketers",
+            "Id": "213",
+            "Percent": 1,
+            "NormalizedSkills": [
+              "KS124YD7298LNBBZDHPL"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "LanguageCompetencies": [
+    {
+      "Language": "Spanish",
+      "LanguageCode": "es",
+      "FoundInContext": ""
+    }
+  ],
+  "ResumeMetadata": {
+    "FoundSections": [],
+    "ReservedData": {
+      "Names": [
+        "Jorge"
+      ]
+    },
+    "PlainText": "Jorge Moreta Castillo\nCalle: Nicolás De Ovando. No.504,\nCristo Rey, Santo Domingo, D.N.\nCel.:809-906-1294\n\n\nOBJETIVO\n\nLaborar con los diferentes tipos de personas en equipo para conjuntamente llegar a metas\ntrazadas; laborar en una empresa privada o institución pública la cual me permita dar lo\nmáximo de mis capacidades en el desempeño de las funciones asignadas, compartir ideas y\ntrabajar para que los propios planes sean realizados en eficiencia y al mismo tiempo que\npueda ir escalando.\nDATOS PERSONALES\n\nFecha de Nacimiento                         :      30 De Julio De 1979\nLugar de Nacimiento                         :      Santo Domingo, D.N.\nCédula                                      :      001-1334715-7\nEstado Civil                                :      Unión Libre\nNacionalidad                                :      Dominicano\nESTUDIOS REALIZADOS\n.\nSecundarios                                 :      Colegio Comercial Rosa De Sarón\nUniversitario                               :      Licdo. En Publicidad, mención diseño\ngráfico (UASD)\nCURSOS TECNICOS\n\nTécnico en Artes Gráficas                   :      Instituto Salesiano ITESA\nInformática                                 :      Ramón Emilio Jiménez\nContabilidad                                :      Colegio Comercial Rosa De Saron\nMecanografía                                :      Colegio Comercial Rosa De Saron\nEXPERIENCIAS LABORALES\n\nMercaderista                                :      Unión Nacional de Marcas\nMercaderista.                               :      Benigno zapatero\nMercaderista                                :      Grupo Mejía Arcalá\nGondolero                                   :      Tiendas olé\n\n\n\nREFERENCIAS PERSONALES\n\nLicda. Maridalia Martínez                   :      Cel. 809-448-3191\nLicdo. Jandri De la Cruz                    :      Cel. 809-299-3393",
+    "DocumentLanguage": "es",
+    "DocumentCulture": "es-US",
+    "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = Spanish; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.NormalizeSkills = True; Data.UserDefinedParsing = False; Data.UseV2SkillsTaxonomy = True; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+    "DocumentLastModified": "2023-10-23"
+  }
+}

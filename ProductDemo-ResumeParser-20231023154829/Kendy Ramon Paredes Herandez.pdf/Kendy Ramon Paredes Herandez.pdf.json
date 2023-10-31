@@ -1,0 +1,417 @@
+{
+  "ContactInformation": {
+    "CandidateName": {
+      "FormattedName": "Kendy Ramon Paredes Herandez",
+      "GivenName": "Kendy Ramon",
+      "FamilyName": "Paredes Herandez"
+    },
+    "Telephones": [
+      {
+        "Raw": "(829)-204-3954",
+        "Normalized": "+34 829 204 3954",
+        "InternationalCountryCode": "34",
+        "SubscriberNumber": "829 204 3954"
+      }
+    ],
+    "Location": {
+      "CountryCode": "ES",
+      "Municipality": "San Cristóbal",
+      "StreetAddressLines": [
+        "C/ Las Caobas, No.126, Bajos de Haina"
+      ]
+    }
+  },
+  "PersonalAttributes": {
+    "Birthplace": "Santo Domingo, R.D",
+    "DateOfBirth": {
+      "Date": "2000-12-26",
+      "IsCurrentDate": false,
+      "FoundYear": true,
+      "FoundMonth": true,
+      "FoundDay": true
+    },
+    "MaritalStatus": "Single",
+    "NationalIdentities": [
+      {
+        "Number": "402-0981151-8",
+        "Phrase": "Cedula"
+      }
+    ],
+    "Nationality": "Dominicana"
+  },
+  "Education": {
+    "HighestDegree": {
+      "Name": {
+        "Raw": "Bachiller",
+        "Normalized": "Bachiller"
+      },
+      "Type": "highSchoolOrEquivalent"
+    },
+    "EducationDetails": [
+      {
+        "Id": "DEG-1",
+        "Text": "●   Bachiller: Colegio Cesar Nicolás Penson",
+        "SchoolName": {
+          "Raw": "Colegio Cesar Nicolás Penson",
+          "Normalized": "Colegio Cesar Nicolás Penson"
+        },
+        "SchoolType": "highschool",
+        "Degree": {
+          "Name": {
+            "Raw": "Bachiller",
+            "Normalized": "Bachiller"
+          },
+          "Type": "highSchoolOrEquivalent"
+        }
+      },
+      {
+        "Id": "DEG-2",
+        "Text": "●   Psicología Industrial (6to cuatrimestre): Universidad Dominicana O&M\n\n●   Manejo de Montacargas clase III: Infotep\n\n●   Manejo Seguro de Montacargas: Infotep\n\n●   Electrónico Básica: Loyola\n\n●   Electrónica Industrial: Loyola",
+        "SchoolName": {
+          "Raw": "Universidad Dominicana O&M",
+          "Normalized": "Universidad Dominicana O&M"
+        },
+        "SchoolType": "university",
+        "Majors": [
+          "Psicología Industrial"
+        ]
+      },
+      {
+        "Id": "DEG-3",
+        "Text": "●   Manejo de programa de oficina: Instituto Tecnológico de Haina\n\n●\tIngles por inmersión (Cursando)\n\n●  Experiencia Laboral",
+        "SchoolName": {
+          "Raw": "Instituto Tecnológico de Haina",
+          "Normalized": "Instituto Tecnológico de Haina"
+        },
+        "SchoolType": "college",
+        "Majors": [
+          "oficina"
+        ],
+        "Graduated": {
+          "Value": false
+        }
+      }
+    ]
+  },
+  "EmploymentHistory": {
+    "ExperienceSummary": {
+      "Description": "Las habilidades de Kendy Ramon Paredes Herandez coinciden con las de Mecánicos de equipamiento eléctrico (Instalación, reparación y mantenimiento). Kendy Ramon también tiene habilidades asociadas con Transportistas (Transporte). Kendy Ramon Paredes Herandez parece tener una experiencia básica, con solamente 0 meses de experiencia.",
+      "MonthsOfWorkExperience": 0,
+      "MonthsOfManagementExperience": 0,
+      "ExecutiveType": "NONE",
+      "AverageMonthsPerEmployer": 0,
+      "FulltimeDirectHirePredictiveIndex": 0,
+      "ManagementStory": "",
+      "CurrentManagementLevel": "",
+      "ManagementScore": 0
+    },
+    "Positions": [
+      {
+        "Id": "POS-1",
+        "IsSelfEmployed": false,
+        "IsCurrent": false,
+        "JobType": "UNSPECIFIED",
+        "TaxonomyPercentage": 0,
+        "Description": "●   Eaton Corporation: Montacarguista\n\n●  Referencias Personales\n\n●   Joel Corsino\t Cel.: 829-669-6542\n\n●   Luisa Hernández\tCel.: 809-457-6924\n\n●   Joandree Corsino\tCel.: 829-493-2928"
+      }
+    ]
+  },
+  "Skills": {
+    "Raw": [
+      {
+        "Name": "Electrónica",
+        "FoundIn": [
+          {
+            "SectionType": "EDUCATION",
+            "Id": "DEG-2"
+          }
+        ]
+      },
+      {
+        "Name": "Montacargas",
+        "FoundIn": [
+          {
+            "SectionType": "EDUCATION",
+            "Id": "DEG-2"
+          }
+        ]
+      },
+      {
+        "Name": "Psicología",
+        "FoundIn": [
+          {
+            "SectionType": "EDUCATION",
+            "Id": "DEG-2"
+          }
+        ]
+      }
+    ],
+    "Normalized": [
+      {
+        "Name": "Electrónica",
+        "Id": "KS123FS6SM7YBY0BS2T7",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "EDUCATION",
+            "Id": "DEG-2"
+          }
+        ],
+        "RawSkills": [
+          "Electrónica"
+        ]
+      },
+      {
+        "Name": "Carrello Elevatore Di Coda",
+        "Id": "KS125V071TCL01ZXX0FH",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "EDUCATION",
+            "Id": "DEG-2"
+          }
+        ],
+        "RawSkills": [
+          "Montacargas"
+        ]
+      },
+      {
+        "Name": "Psicología",
+        "Id": "KS124VJ71BKMYXC1PP09",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "EDUCATION",
+            "Id": "DEG-2"
+          }
+        ],
+        "RawSkills": [
+          "Psicología"
+        ]
+      }
+    ],
+    "RelatedProfessionClasses": [
+      {
+        "Name": "Instalación, reparación y mantenimiento",
+        "Id": "8",
+        "Percent": 48,
+        "Groups": [
+          {
+            "Name": "Mecánicos de equipamiento eléctrico",
+            "Id": "67",
+            "Percent": 32,
+            "NormalizedSkills": [
+              "KS123FS6SM7YBY0BS2T7"
+            ]
+          },
+          {
+            "Name": "Mecánicos",
+            "Id": "66",
+            "Percent": 16,
+            "NormalizedSkills": [
+              "KS125V071TCL01ZXX0FH"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Transporte",
+        "Id": "12",
+        "Percent": 32,
+        "Groups": [
+          {
+            "Name": "Transportistas",
+            "Id": "107",
+            "Percent": 32,
+            "NormalizedSkills": [
+              "KS125V071TCL01ZXX0FH"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Derecho, recursos humanos y servicios sociales",
+        "Id": "19",
+        "Percent": 16,
+        "Groups": [
+          {
+            "Name": "Trabajadores sociales",
+            "Id": "191",
+            "Percent": 16,
+            "NormalizedSkills": [
+              "KS124VJ71BKMYXC1PP09"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Sanidad",
+        "Id": "6",
+        "Percent": 4,
+        "Groups": [
+          {
+            "Name": "Psicólogos y pedagogos",
+            "Id": "55",
+            "Percent": 4,
+            "NormalizedSkills": [
+              "KS124VJ71BKMYXC1PP09"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "LanguageCompetencies": [
+    {
+      "Language": "English",
+      "LanguageCode": "en",
+      "FoundInContext": "●\tIngles por inmersión (Cursando)"
+    },
+    {
+      "Language": "Spanish",
+      "LanguageCode": "es",
+      "FoundInContext": "[RESUME_LANGUAGE]"
+    }
+  ],
+  "ResumeMetadata": {
+    "FoundSections": [
+      {
+        "FirstLineNumber": 20,
+        "LastLineNumber": 37,
+        "SectionType": "EDUCATION",
+        "HeaderTextFound": ""
+      },
+      {
+        "FirstLineNumber": 38,
+        "LastLineNumber": 46,
+        "SectionType": "WORK HISTORY",
+        "HeaderTextFound": ""
+      }
+    ],
+    "ResumeQuality": [
+      {
+        "Level": "Fatal Problems Found",
+        "Findings": [
+          {
+            "QualityCode": "415",
+            "Message": "We found no WORK HISTORY section header for the candidate, but we calculated where we thought WORK HISTORY was located in the resume. The work history section should have a header such as 'Work History' before listing the content."
+          },
+          {
+            "QualityCode": "416",
+            "Message": "We found no EDUCATION HISTORY section header for the candidate, but we calculated where we thought EDUCATION HISTORY was located in the resume. The education history section should have a header such as 'Education' before listing the content."
+          },
+          {
+            "QualityCode": "419",
+            "Message": "We found no valid start and end dates for the jobs in your work history. Each job must have a start date and an end date, preferably at the start of the line, and written as MONTH YYYY - MONTH YYYY. Never use dates that include the 'day' part."
+          }
+        ]
+      },
+      {
+        "Level": "Major Issues Found",
+        "Findings": [
+          {
+            "QualityCode": "300",
+            "Message": "You should not use the PDF format for your resume. Due to inherent limitations with text extraction from PDFs, you are less likely to get a job when using a PDF resume."
+          }
+        ]
+      },
+      {
+        "Level": "Data Missing",
+        "Findings": [
+          {
+            "QualityCode": "211",
+            "Message": "An email address was not found in the contact information. A resume should always include an email address."
+          },
+          {
+            "QualityCode": "221",
+            "SectionIdentifiers": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              }
+            ],
+            "Message": "Every position in a resume should have a job title."
+          },
+          {
+            "QualityCode": "222",
+            "SectionIdentifiers": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              }
+            ],
+            "Message": "Every position in a resume should have an employer name."
+          },
+          {
+            "QualityCode": "224",
+            "SectionIdentifiers": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              }
+            ],
+            "Message": "Every position in a resume should have a start date."
+          },
+          {
+            "QualityCode": "225",
+            "SectionIdentifiers": [
+              {
+                "SectionType": "WORK HISTORY",
+                "Id": "POS-1"
+              }
+            ],
+            "Message": "Every position in a resume should have an end date, unless it is a currently held position."
+          },
+          {
+            "QualityCode": "226",
+            "Message": "We found no work history positions within the past year. A resume should include work history information, including time off, for the most recent year."
+          },
+          {
+            "QualityCode": "231",
+            "SectionIdentifiers": [
+              {
+                "SectionType": "DEG-2"
+              },
+              {
+                "SectionType": "DEG-3"
+              }
+            ],
+            "Message": "Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+          }
+        ]
+      }
+    ],
+    "ReservedData": {
+      "Phones": [
+        "Cel.: (829)-204-3954",
+        "(829)-204-3954",
+        "Cel.: 829-669-6542",
+        "829-669-6542",
+        "Cel.: 809-457-6924",
+        "809-457-6924",
+        "Cel.: 829-493-2928",
+        "829-493-2928"
+      ],
+      "Names": [
+        "Kendy Ramon",
+        "Kendy Ramon Paredes Herandez"
+      ],
+      "OtherData": [
+        "Fecha de Nacimiento: 26 de Diciembre del 2000",
+        "Lugar de Nacimiento: Santo Domingo, R.D",
+        "C/ Las Caobas, No.126, Bajos de Haina",
+        "Tuesday, December 26, 2000",
+        "Nacionalidad: Dominicana",
+        "Estado Civil: Soltero",
+        "Cedula: 402-0981151-8",
+        "402-0981151-8",
+        "Cedula"
+      ]
+    },
+    "PlainText": "Curriculum\nKendy Ramon Paredes Herandez\n\nC/ Las Caobas, No.126, Bajos de Haina,\nSan Cristóbal, Republica Dominicana.\nCel.: (829)-204-3954\n●  Datos Personales\n\n●   Cedula: 402-0981151-8\n\n●   Nacionalidad: Dominicana\n\n●   Estado Civil: Soltero\n\n●   Fecha de Nacimiento: 26 de Diciembre del 2000\n\n●   Lugar de Nacimiento: Santo Domingo, R.D.\n\n●  Estudios Realizados\n\n●   Bachiller: Colegio Cesar Nicolás Penson\n\n●   Psicología Industrial (6to cuatrimestre): Universidad Dominicana O&M\n\n●   Manejo de Montacargas clase III: Infotep\n\n●   Manejo Seguro de Montacargas: Infotep\n\n●   Electrónico Básica: Loyola\n\n●   Electrónica Industrial: Loyola\n\n●   Manejo de programa de oficina: Instituto Tecnológico de Haina\n\n●\tIngles por inmersión (Cursando)\n\n●  Experiencia Laboral\n\n●   Eaton Corporation: Montacarguista\n\n●  Referencias Personales\n\n●   Joel Corsino\t Cel.: 829-669-6542\n\n●   Luisa Hernández\tCel.: 809-457-6924\n\n●   Joandree Corsino\tCel.: 829-493-2928",
+    "DocumentLanguage": "es",
+    "DocumentCulture": "es-ES",
+    "ParserSettings": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = ES; Culture.DefaultCultureIsSpain = True; Culture.Language = Spanish; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.NormalizeSkills = True; Data.UserDefinedParsing = False; Data.UseV2SkillsTaxonomy = True; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+    "DocumentLastModified": "2023-10-18"
+  }
+}

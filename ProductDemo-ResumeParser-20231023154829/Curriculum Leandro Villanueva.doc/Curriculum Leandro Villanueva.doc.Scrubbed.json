@@ -1,0 +1,253 @@
+{
+  "ContactInformation": {
+    "Location": {
+      "CountryCode": "CL",
+      "Municipality": "Santo Domingo"
+    }
+  },
+  "Objective": "Objetivos:\n                Desarrollar mis conocimientos adquirido, con fines de ocupar una posición que represente\n      nuevos retos para mí en la empresa que pertenezca, contribuyendo con el buen desempeño de los\n      planes y metas de la misma.",
+  "Education": {
+    "EducationDetails": [
+      {
+        "Id": "DEG-1",
+        "Text": "",
+        "SchoolName": {
+          "Raw": "Saltitopa",
+          "Normalized": "Saltitopa"
+        },
+        "SchoolType": "UNSPECIFIED",
+        "Degree": {
+          "Name": {
+            "Raw": "Liceo Juana",
+            "Normalized": "Liceo Juana"
+          }
+        }
+      }
+    ]
+  },
+  "EmploymentHistory": {
+    "ExperienceSummary": {
+      "Description": "Las habilidades de    ~~   Villanueva Peña coinciden con las de Warehouse Staff and Box Fillers (Procurement and Warehouse Management).    ~~   también tiene habilidades asociadas con Customer Service Personnel (Administration and Customer Service).    ~~   Villanueva Peña parece tener una experiencia básica, con solamente 0 meses de experiencia.",
+      "MonthsOfWorkExperience": 0,
+      "MonthsOfManagementExperience": 0,
+      "ExecutiveType": "NONE",
+      "AverageMonthsPerEmployer": 0,
+      "FulltimeDirectHirePredictiveIndex": -1,
+      "ManagementStory": "",
+      "CurrentManagementLevel": "",
+      "ManagementScore": 0
+    },
+    "Positions": [
+      {
+        "Id": "POS-1",
+        "Employer": {
+          "Name": {
+            "Probability": "Confident",
+            "Raw": "Casa Surtidora Pepe",
+            "Normalized": "Casa Surtidora Pepe"
+          }
+        },
+        "IsSelfEmployed": false,
+        "IsCurrent": false,
+        "JobTitle": {
+          "Raw": "Auxiliar de almacén",
+          "Normalized": "Auxiliar de almacén",
+          "Probability": "Confident"
+        },
+        "JobType": "UNSPECIFIED",
+        "JobLevel": "Entry Level",
+        "TaxonomyPercentage": 0,
+        "NormalizedProfession": {
+          "Profession": {
+            "CodeId": 4983,
+            "Description": "Mozo de almacén (h/m)"
+          },
+          "Group": {
+            "CodeId": 112,
+            "Description": "Empaquetadores y mozos de almacén"
+          },
+          "Class": {
+            "CodeId": 22,
+            "Description": "Logística"
+          },
+          "ISCO": {
+            "Version": "ISCO-08",
+            "CodeId": 4321,
+            "Description": "Stock clerks"
+          },
+          "ONET": {
+            "Version": "2010",
+            "CodeId": "43-5081.03",
+            "Description": "Stock Clerks- Stockroom, Warehouse, or Storage Yard"
+          },
+          "Confidence": 1.0
+        }
+      },
+      {
+        "Id": "POS-2",
+        "Employer": {
+          "Name": {
+            "Probability": "Confident",
+            "Raw": "Molun comercial SRL",
+            "Normalized": "Molun comercial"
+          }
+        },
+        "IsSelfEmployed": false,
+        "IsCurrent": false,
+        "JobTitle": {
+          "Raw": "Auxiliar de almacén",
+          "Normalized": "Auxiliar de almacén",
+          "Probability": "Confident"
+        },
+        "JobType": "UNSPECIFIED",
+        "JobLevel": "Entry Level",
+        "TaxonomyPercentage": 0,
+        "Description": "*      Servicio al cliente : Cafetería Ezequiel\n*      Milza Recicle : Zona Franca\n*       Seguridad : Segasa",
+        "NormalizedProfession": {
+          "Profession": {
+            "CodeId": 4983,
+            "Description": "Mozo de almacén (h/m)"
+          },
+          "Group": {
+            "CodeId": 112,
+            "Description": "Empaquetadores y mozos de almacén"
+          },
+          "Class": {
+            "CodeId": 22,
+            "Description": "Logística"
+          },
+          "ISCO": {
+            "Version": "ISCO-08",
+            "CodeId": 4321,
+            "Description": "Stock clerks"
+          },
+          "ONET": {
+            "Version": "2010",
+            "CodeId": "43-5081.03",
+            "Description": "Stock Clerks- Stockroom, Warehouse, or Storage Yard"
+          },
+          "Confidence": 1.0
+        }
+      }
+    ]
+  },
+  "Skills": {
+    "Raw": [
+      {
+        "Name": "almacén",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-1"
+          },
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-2"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 2
+        }
+      },
+      {
+        "Name": "Servicio al cliente",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-2"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 1
+        }
+      }
+    ],
+    "Normalized": [
+      {
+        "Name": "Almacenamiento",
+        "Id": "KS440ZB6SL0GGNRMHH11",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-1"
+          },
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-2"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 2
+        },
+        "RawSkills": [
+          "almacén"
+        ]
+      },
+      {
+        "Name": "Servicio al Cliente",
+        "Id": "KS121Z26S4VJLQ1WXN21",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-2"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 1
+        },
+        "RawSkills": [
+          "Servicio al cliente"
+        ]
+      }
+    ],
+    "RelatedProfessionClasses": [
+      {
+        "Name": "Procurement and Warehouse Management",
+        "Id": "22",
+        "Percent": 50,
+        "Groups": [
+          {
+            "Name": "Warehouse Staff and Box Fillers",
+            "Id": "112",
+            "Percent": 50,
+            "NormalizedSkills": [
+              "KS440ZB6SL0GGNRMHH11"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Administration and Customer Service",
+        "Id": "1",
+        "Percent": 50,
+        "Groups": [
+          {
+            "Name": "Customer Service Personnel",
+            "Id": "4",
+            "Percent": 50,
+            "NormalizedSkills": [
+              "KS121Z26S4VJLQ1WXN21"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "LanguageCompetencies": [
+    {
+      "Language": "Spanish",
+      "LanguageCode": "es",
+      "FoundInContext": ""
+    }
+  ],
+  "ResumeMetadata": {
+    "FoundSections": [],
+    "PlainText": "Currículum Vitae\n   ~~   Villanueva Peña\nC/ Resp.14, No.17, Sector Landia Los Alcarrizos Santo Domingo R.D.\nCorreo: leandrovillanueba@gmail.com;    ~~  9127@gmail.com\nCel: 829-912-3210 Cel:809-8892303\n\n\nObjetivos:\n                Desarrollar mis conocimientos adquirido, con fines de ocupar una posición que represente\n      nuevos retos para mí en la empresa que pertenezca, contribuyendo con el buen desempeño de los\n      planes y metas de la misma.\n\n\nDatos Personales:\n    *      Cédula                              : 402-2245670-5\n    *      Fecha de nacimiento                  : 27 de Enero del 1991\n    *      Estado Civil                        :Soltero\n    *      Nacionalidad                        : Dominicano\n    *      Lugar de nacimiento : Villa Altagracia, R.D.\n\n\nEstudios Académicos:\n\n    *      Secundarios                        : Liceo Juana Saltitopa\n\n\nCursos Técnicos\n    *      Farmacia                              : Villa Altagracia\n    *      Refrigeración : Infotep\n    *      Manejo de Vehículo pesado : Fenestrado\n\nExperiencias Laborales:\n\n    *      Auxiliar de almacén                  : Casa Surtidora Pepe\n    *      Auxiliar de almacén : Molun comercial SRL\n    *      Servicio al cliente : Cafetería Ezequiel\n    *      Milza Recicle : Zona Franca\n    *       Seguridad : Segasa\n\nReferencia Personal:\n\n    *      Sr. Ezequiel Pérez                  : Cel: 829-508-5765\n    *      Sr. Felipe De los Santo            : Cel:829-489-6593\n    *      Sr. Pedro Antonio Espinal : Cel: 849-405-7014\n    *      Sr. Victor Silva      : Cel: 829 -344-7185\n    *      Comp. Monitoreo Sgs : Cel: 829-599-8765",
+    "DocumentLanguage": "es",
+    "DocumentCulture": "es-US",
+    "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = Spanish; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.NormalizeSkills = True; Data.UserDefinedParsing = False; Data.UseV2SkillsTaxonomy = True; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+    "DocumentLastModified": "2022-10-04"
+  }
+}

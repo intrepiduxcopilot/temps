@@ -1,0 +1,305 @@
+{
+  "ContactInformation": {
+    "CandidateName": {
+      "FormattedName": "Luisa María Veloz",
+      "GivenName": "Luisa",
+      "MiddleName": "María",
+      "FamilyName": "Veloz"
+    },
+    "Telephones": [
+      {
+        "Raw": "+568498683529",
+        "Normalized": "+56 8498683529",
+        "InternationalCountryCode": "56",
+        "SubscriberNumber": "8498683529"
+      }
+    ],
+    "Location": {
+      "CountryCode": "CL",
+      "Municipality": "Santo Domingo",
+      "StreetAddressLines": [
+        "Km 22"
+      ]
+    }
+  },
+  "Objective": "Objetivo\n\nEstablecerme en una empresa con grandes valores, para poder aprender y\naportar mis ideas en el progreso de la empresa y así poder desarrollarme tanto\nen el área laboral como persona.",
+  "PersonalAttributes": {
+    "DateOfBirth": {
+      "Date": "1998-10-19",
+      "IsCurrentDate": false,
+      "FoundYear": true,
+      "FoundMonth": true,
+      "FoundDay": true
+    },
+    "Nationality": "DO"
+  },
+  "Education": {
+    "EducationDetails": [
+      {
+        "Id": "DEG-1",
+        "Text": "",
+        "SchoolName": {
+          "Raw": "Escuela Josefa Colon",
+          "Normalized": "Escuela Josefa Colon"
+        },
+        "SchoolType": "UNSPECIFIED",
+        "Degree": {
+          "Name": {
+            "Raw": "Estudios Primarios",
+            "Normalized": "Estudios Primarios"
+          }
+        }
+      },
+      {
+        "Id": "DEG-2",
+        "Text": "",
+        "SchoolName": {
+          "Raw": "Liceo Pedro Henríquez Ureña",
+          "Normalized": "Liceo Pedro Henríquez Ureña"
+        },
+        "SchoolType": "secondary",
+        "Degree": {
+          "Name": {
+            "Raw": "Estudios Secundarios",
+            "Normalized": "Estudios Secundarios"
+          }
+        }
+      },
+      {
+        "Id": "DEG-3",
+        "Text": "",
+        "SchoolName": {
+          "Raw": "CENTUM",
+          "Normalized": "CENTUM"
+        },
+        "SchoolType": "UNSPECIFIED",
+        "Degree": {
+          "Name": {
+            "Raw": "Servicio al Cliente",
+            "Normalized": "Servicio al Cliente"
+          }
+        }
+      },
+      {
+        "Id": "DEG-4",
+        "Text": "",
+        "SchoolName": {
+          "Raw": "Francisco del Rosario Sánchez",
+          "Normalized": "Francisco del Rosario Sánchez"
+        },
+        "SchoolType": "UNSPECIFIED",
+        "Degree": {
+          "Name": {
+            "Raw": "Ingles Básico",
+            "Normalized": "Ingles Básico"
+          }
+        }
+      },
+      {
+        "Id": "DEG-5",
+        "Text": "",
+        "SchoolType": "UNSPECIFIED",
+        "Degree": {
+          "Name": {
+            "Raw": "Informática Comunal la Guayiga",
+            "Normalized": "Informática Comunal la Guayiga"
+          }
+        }
+      },
+      {
+        "Id": "DEG-6",
+        "Text": "",
+        "SchoolName": {
+          "Raw": "INFOTEP",
+          "Normalized": "INFOTEP"
+        },
+        "SchoolType": "UNSPECIFIED",
+        "Degree": {
+          "Name": {
+            "Raw": "Auxiliar de Contabilidad",
+            "Normalized": "Auxiliar de Contabilidad"
+          }
+        }
+      },
+      {
+        "Id": "DEG-7",
+        "Text": "",
+        "SchoolType": "UNSPECIFIED",
+        "Degree": {
+          "Name": {
+            "Raw": "Secretariado INFOTEP",
+            "Normalized": "Secretariado INFOTEP"
+          }
+        }
+      }
+    ]
+  },
+  "EmploymentHistory": {
+    "ExperienceSummary": {
+      "Description": "Las habilidades de Luisa María Veloz coinciden con las de Programmers (Information and Communication Technology). Luisa también tiene habilidades asociadas con Customer Service Personnel (Administration and Customer Service). Luisa María Veloz parece tener una experiencia básica, con solamente 0 meses de experiencia.",
+      "MonthsOfWorkExperience": 0,
+      "MonthsOfManagementExperience": 0,
+      "ExecutiveType": "NONE",
+      "AverageMonthsPerEmployer": 0,
+      "FulltimeDirectHirePredictiveIndex": -1,
+      "ManagementStory": "",
+      "CurrentManagementLevel": "",
+      "ManagementScore": 0
+    }
+  },
+  "Skills": {
+    "Raw": [
+      {
+        "Name": "Auxiliar de Contabilidad",
+        "FoundIn": [
+          {
+            "SectionType": "EDUCATION",
+            "Id": "DEG-6"
+          }
+        ]
+      },
+      {
+        "Name": "Informática",
+        "FoundIn": [
+          {
+            "SectionType": "EDUCATION",
+            "Id": "DEG-5"
+          }
+        ]
+      },
+      {
+        "Name": "Servicio al Cliente",
+        "FoundIn": [
+          {
+            "SectionType": "EDUCATION",
+            "Id": "DEG-3"
+          }
+        ]
+      }
+    ],
+    "Normalized": [
+      {
+        "Name": "Tecnologías de la Información",
+        "Id": "KSJLPQMW0YRWJSWO4NFL",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "EDUCATION",
+            "Id": "DEG-5"
+          }
+        ],
+        "RawSkills": [
+          "Informática"
+        ]
+      },
+      {
+        "Name": "Registros Contables",
+        "Id": "KS1203W702ND09XHKJR5",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "EDUCATION",
+            "Id": "DEG-6"
+          }
+        ],
+        "RawSkills": [
+          "Auxiliar de Contabilidad"
+        ]
+      },
+      {
+        "Name": "Servicio al Cliente",
+        "Id": "KS121Z26S4VJLQ1WXN21",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "EDUCATION",
+            "Id": "DEG-3"
+          }
+        ],
+        "RawSkills": [
+          "Servicio al Cliente"
+        ]
+      }
+    ],
+    "RelatedProfessionClasses": [
+      {
+        "Name": "Information and Communication Technology",
+        "Id": "9",
+        "Percent": 33,
+        "Groups": [
+          {
+            "Name": "Programmers",
+            "Id": "82",
+            "Percent": 33,
+            "NormalizedSkills": [
+              "KSJLPQMW0YRWJSWO4NFL"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Administration and Customer Service",
+        "Id": "1",
+        "Percent": 33,
+        "Groups": [
+          {
+            "Name": "Customer Service Personnel",
+            "Id": "4",
+            "Percent": 33,
+            "NormalizedSkills": [
+              "KS121Z26S4VJLQ1WXN21"
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Insurance and Finance",
+        "Id": "24",
+        "Percent": 33,
+        "Groups": [
+          {
+            "Name": "Insurance & Finance Managers",
+            "Id": "220",
+            "Percent": 17,
+            "NormalizedSkills": [
+              "KS1203W702ND09XHKJR5"
+            ]
+          },
+          {
+            "Name": "Accountants",
+            "Id": "218",
+            "Percent": 17,
+            "NormalizedSkills": [
+              "KS1203W702ND09XHKJR5"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "LanguageCompetencies": [
+    {
+      "Language": "Spanish",
+      "LanguageCode": "es",
+      "FoundInContext": ""
+    },
+    {
+      "Language": "English",
+      "LanguageCode": "en",
+      "FoundInContext": "DEG-4"
+    }
+  ],
+  "ResumeMetadata": {
+    "FoundSections": [],
+    "ReservedData": {
+      "Names": [
+        "Luisa"
+      ]
+    },
+    "PlainText": "Curriculum Vitae\n                                Luisa María Veloz\n                      Km22 Autopista Duarte Distrito Municipal La Guayiga\n                                      Sector los palmares\n                     Municipio Pedro Brand Provincia Santo Domingo Oeste\n                               Cel. :(849)868-3529\n\nObjetivo\n\nEstablecerme en una empresa con grandes valores, para poder aprender y\naportar mis ideas en el progreso de la empresa y así poder desarrollarme tanto\nen el área laboral como persona.\n\nDatos Personales\n\n   *   Estado Civil                               Soltera\n   *   Cedula                                     402-4078611-7\n   *   Nacionalidad                               Dominicana\n   *   Lugar de Nacimiento                        Santo Domingo R.D.\n   *   Fecha de Nacimiento                       19 de Octubre del 1998\n\nEstudios Realizados\n\n    *   Estudios Primarios                          Escuela Josefa Colon\n    *   Estudios Secundarios                        Liceo Pedro Henríquez Ureña\nCursos Tecnicos\n\n     *  Servicio al Cliente                          CENTUM\n     *  Ingles Básico                                Francisco del Rosario Sánchez\n     *  Informática                                  Comunal la Guayiga\n     *  Auxiliar de Contabilidad                     INFOTEP\n     *  Secretariado                                 INFOTEP\n\nReferencias Personales\n\n   *   Licda. Fernanda Veloz                          Cel.: (809)-882-9634\n   *   Yomaira Heredia                               Cel.: (829)-389-9127\n   *   Fernando Cuello Polanco                       Cel.: (829)-848-4927",
+    "DocumentLanguage": "es",
+    "DocumentCulture": "es-US",
+    "ParserSettings": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = Spanish; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.NormalizeSkills = True; Data.UserDefinedParsing = False; Data.UseV2SkillsTaxonomy = True; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SimpleCustomLinkedIn = True; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+    "DocumentLastModified": "2022-06-15"
+  }
+}
